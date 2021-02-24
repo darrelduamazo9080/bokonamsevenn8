@@ -1,0 +1,4 @@
+baseURL = "https://musiclilos-rogsix2.vercel.app"
+languageCode = "en-us"
+title = "Easy Sheet Music Modern USA"
+theme = "hugo-theme-minos"
